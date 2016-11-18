@@ -7,6 +7,12 @@
   * [Crontab @reboot](AutoStart/crontab-at-reboot.md)
   * /etc/init.d
 * [Disk](Disk/README.md)
+  * [Insufficient Disk Space](Disk/insufficient-disk-space.md)
 * [Memory](Memory/README.md)
   * [Disk Caching](Memory/disk-caching.md)
 * [Package Manager](PackageManager/README.md)
+
+# Commands
+
+* [Text Processing](TextProcessing/README.md)
+  * [sort - sort lines of text files](TextProcessing/sort.md)
