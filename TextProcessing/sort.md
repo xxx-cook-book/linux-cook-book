@@ -26,7 +26,7 @@
   ```shell
   $ echo $LC_ALL
 
-  $ LC_ALL ls | sort
+  $ LC_ALL=C ls | sort
   Desktop
   Documents
   Downloads
