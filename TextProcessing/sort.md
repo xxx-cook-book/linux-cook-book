@@ -24,6 +24,21 @@
 * ``LC_ALL=C`` 
 
   ```shell
+  $ echo $LC_ALL
+
+  $ LC_ALL ls | sort
+  Desktop
+  Documents
+  Downloads
+  Music
+  Pictures
+  Public
+  Templates
+  Videos
+  examples.desktop
+  ```
+  or
+  ```shell
   $ export LC_ALL=C
   $ echo $LC_ALL
   C
@@ -38,6 +53,16 @@
   Videos
   examples.desktop
   ```
+
+* Recommend
+
+  * ``vim ~/.bashrc``
+
+    ```shell
+    alias sort='LC_ALL=C sort'
+    ```
+
+  * ``source ~/.bashrc``
 
 ## Redirect
 

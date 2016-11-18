@@ -11,6 +11,8 @@
 * [Memory](Memory/README.md)
   * [Disk Caching](Memory/disk-caching.md)
 * [Package Manager](PackageManager/README.md)
+* [Settings](Settings/README.md)
+  * [LC_*](Settings/lc.md)
 
 # Commands
 
