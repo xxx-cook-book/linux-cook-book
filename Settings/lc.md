@@ -62,6 +62,20 @@ LC_ALL=C
 /usr/share/i18n/locales
 ```
 
+## Questions
+
+* perl: warning: Setting locale failed.
+
+  * Comment the `SendEnv LANG LC_*` line in the *local* `/etc/ssh/ssh_config`
+
+  * Reload ssh config
+
+    ```shell
+    service ssh reload
+    ```
+
 ## References
 
 [1] jcubic@Unix.StackExchange, [What does “LC_ALL=C” do?](http://unix.stackexchange.com/questions/87745/what-does-lc-all-c-do)
+
+[2] xain@StackOverflow, [How to fix a locale setting warning from Perl?](http://stackoverflow.com/questions/2499794/how-to-fix-a-locale-setting-warning-from-perl)
