@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Files](Files/README.md)
 * [Alias](Alias/README.md)
-* [AutoStart](AutoStart/README.md)
+* [Auto Start](AutoStart/README.md)
   * [Crontab @reboot](AutoStart/crontab-at-reboot.md)
   * /etc/init.d
 * [Disk](Disk/README.md)
