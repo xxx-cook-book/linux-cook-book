@@ -11,6 +11,8 @@
 * [Memory](Memory/README.md)
   * [Disk Caching](Memory/disk-caching.md)
 * [Package Manager](PackageManager/README.md)
+* [Permission](Permission/README.md)
+  * [Permission](Permission/automate-sudo-password.md)
 * [Settings](Settings/README.md)
   * [LC_*](Settings/lc.md)
 
