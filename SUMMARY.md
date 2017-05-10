@@ -20,3 +20,4 @@
 
 * [Text Processing](TextProcessing/README.md)
   * [sort - sort lines of text files](TextProcessing/sort.md)
+  * [split - split a file into pieces](TextProcessing/split.md)
